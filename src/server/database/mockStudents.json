@@ -1,0 +1,46 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Henry",
+            "is_present": false,
+            "is_finished": true
+        },
+        {
+            "id": 2,
+            "name": "Robin",
+            "is_present": true,
+            "is_finished": true
+        },
+        {
+            "id": 3,
+            "name": "Jeff",
+            "is_present": false,
+            "is_finished": true
+        },
+        {
+            "id": 4,
+            "name": "Rachel",
+            "is_present": true,
+            "is_finished": false
+        },
+        {
+            "id": 5,
+            "name": "Shaun",
+            "is_present": true,
+            "is_finished": true
+        },
+        {
+            "id": 6,
+            "name": "Sean",
+            "is_present": false,
+            "is_finished": false
+        },
+        {
+            "id": 7,
+            "name": "Rajiv",
+            "is_present": false,
+            "is_finished": true
+        }
+    ]
+}
